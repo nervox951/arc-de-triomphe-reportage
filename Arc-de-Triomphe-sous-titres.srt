@@ -56,77 +56,78 @@ L'Arc ne sera inauguré qu'en 1836,
 sous Louis-Philippe.
 
 13
-00:00:41,640 --> 00:00:44,950
-Avec ses cinquante mètres de haut, c'est l'un
-des plus grands arcs de triomphe au monde.
+00:00:41,290 --> 00:00:43,000
+Avec ses cinquante mètres de haut,
 
 14
-00:00:45,920 --> 00:00:49,150
+00:00:43,050 --> 00:00:44,700
+c'est l'un des plus grands
+arcs de triomphe au monde.
+
+15
+00:00:45,210 --> 00:00:48,600
 Il trône au centre d'une place en étoile
 d'où partent douze avenues.
 
-15
-00:00:50,130 --> 00:00:52,700
+16
+00:00:53,180 --> 00:00:55,350
 Ses façades sont ornées
 de sculptures monumentales.
 
-16
-00:00:53,900 --> 00:00:58,200
-La plus célèbre, le Départ des Volontaires
-de 1792, de François Rude,
-
 17
-00:00:59,640 --> 00:01:01,500
-est surnommée la Marseillaise.
+00:00:55,760 --> 00:00:58,950
+La plus célèbre, le Départ
+des Volontaires de 1792,
 
 18
-00:01:01,550 --> 00:01:03,400
-Sur les murs intérieurs
+00:00:59,110 --> 00:01:01,300
+de François Rude,
+est surnommé la Marseillaise.
 
 19
-00:01:04,460 --> 00:01:07,750
-sont gravés les noms
-de plus de 550 généraux
+00:01:01,840 --> 00:01:03,850
+Sur les murs intérieurs sont gravés
 
 20
-00:01:08,610 --> 00:01:10,400
+00:01:03,900 --> 00:01:05,950
+les noms de plus de 550 généraux
 et de 128 batailles.
 
 21
-00:01:10,450 --> 00:01:12,550
-Depuis 1921, sous la voûte,
+00:01:10,510 --> 00:01:11,700
+Depuis 1921,
 
 22
-00:01:13,140 --> 00:01:15,500
-repose un Soldat inconnu
+00:01:11,830 --> 00:01:14,950
+sous la voûte, repose un Soldat inconnu
 de la Première Guerre mondiale.
 
 23
-00:01:16,710 --> 00:01:20,200
+00:01:15,460 --> 00:01:18,750
 Depuis 1923, une flamme
 y brûle en permanence.
 
 24
-00:01:21,790 --> 00:01:23,700
+00:01:19,410 --> 00:01:21,100
 Elle est ravivée chaque soir à 18 h 30.
 
 25
-00:01:25,820 --> 00:01:30,250
+00:01:25,630 --> 00:01:29,900
 En 1885, le corps de Victor Hugo
 y est exposé avant ses funérailles.
 
 26
-00:01:31,280 --> 00:01:36,100
+00:01:30,360 --> 00:01:34,700
 En 1919, l'aviateur Charles Godefroy
 ose passer en avion sous l'Arc.
 
 27
-00:01:37,090 --> 00:01:41,400
+00:01:35,050 --> 00:01:38,500
 Et en 2021, le monument est entièrement
 emballé de tissu argenté,
 
 28
-00:01:42,160 --> 00:01:45,350
+00:01:38,850 --> 00:01:40,750
 selon le projet de Christo et Jeanne-Claude.
 
 29
